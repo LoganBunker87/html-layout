@@ -1,0 +1,19 @@
+html, body{}
+  .first{
+    height: 100%;
+    width: 33%;
+    background-color: blue;
+  }
+  .second{
+    height: 100%;
+    margin-left: 33%;
+    background-color: red;
+  }
+  .third{
+    height: 100%;
+    margin-left: 66%;
+    background-color: yellow;
+  }
+  .imagePlaceHolder{
+    
+  }

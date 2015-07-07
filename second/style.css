@@ -1,0 +1,32 @@
+html, body{
+  height: 100%;
+  width: 100%;
+}
+  .first{
+    height: 100%;
+    width: 33%;
+    background-color: blue;
+    margin-top: auto;
+    float: left;
+  }
+  .second{
+    height: 100%;
+    width: 33%;
+    background-color: red;
+    float: left;
+  }
+  .third{
+    height: 66%;
+    width: 33%;
+    background-color: yellow;
+    float: left;
+  }
+  .imagePlaceHolder{
+    text-align: center;
+    height: 33%;
+    width: 33%;
+    background-color: green;
+    text: 30px;
+    margin: auto;
+    float:left;
+  }
